@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1715250591454,
+      "tag": "0000_purple_genesis",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1715250982758,
+      "tag": "0001_robust_sumo",
+      "breakpoints": true
+    }
+  ]
+}
